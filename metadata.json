@@ -1,0 +1,7 @@
+{
+  "name": "Copy of BIDAPRO Scoreboard",
+  "description": "A professional billiard scoreboard application featuring match management, player statistics, practice drills, and club configuration.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
